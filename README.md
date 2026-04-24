@@ -1,4 +1,4 @@
-# 📈 Stock Market Analysis Dashboard
+# Stock Market Analysis Dashboard
 
 Interactive financial dashboard for analyzing stock performance.
 
